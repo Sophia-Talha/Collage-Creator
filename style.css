@@ -1,0 +1,41 @@
+html, body {
+    background-color: rgb(62, 206, 209);
+}
+h1{
+    font-family: fantasy;
+    font-style: oblique;
+    font-weight: normal;
+}
+h4{
+    font-family: cursive;
+}
+#camera{
+  width: 550;
+  height: 450;
+  border-color: rgb(78, 24, 128);  
+  border-style: ridge;
+}
+#Pattern1{
+    border-radius: 0;
+    padding: auto;
+    box-shadow: rgba(57, 56, 56, 0.762);
+    border-style: ridge;
+    border-color: goldenrod;
+}
+#Pattern2{
+    border-radius: 0;
+    padding: auto;
+    box-shadow: rgba(57, 56, 56, 0.762);
+    border-style: ridge;
+    border-color: goldenrod;
+}
+#Pattern3{
+    border-radius: 0;
+    padding: auto;
+    box-shadow: rgba(57, 56, 56, 0.762);
+    border-style: ridge;
+    border-color: goldenrod;
+}
+img{
+____________________
+}
